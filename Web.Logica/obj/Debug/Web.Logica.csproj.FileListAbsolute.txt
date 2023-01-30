@@ -1,0 +1,17 @@
+c:\Users\David\documents\visual studio 2012\Projects\Web\Web.Logica\bin\Debug\Web.Logica.dll
+c:\Users\David\documents\visual studio 2012\Projects\Web\Web.Logica\bin\Debug\Web.Logica.pdb
+c:\Users\David\documents\visual studio 2012\Projects\Web\Web.Logica\obj\Debug\Web.Logica.csprojResolveAssemblyReference.cache
+c:\Users\David\documents\visual studio 2012\Projects\Web\Web.Logica\obj\Debug\Web.Logica.dll
+c:\Users\David\documents\visual studio 2012\Projects\Web\Web.Logica\obj\Debug\Web.Logica.pdb
+D:\Escritorio\Web\Web.Logica\bin\Debug\Web.Logica.dll
+D:\Escritorio\Web\Web.Logica\bin\Debug\Web.Logica.pdb
+D:\Escritorio\Web\Web.Logica\obj\Debug\Web.Logica.csproj.AssemblyReference.cache
+D:\Escritorio\Web\Web.Logica\obj\Debug\Web.Logica.csproj.CoreCompileInputs.cache
+D:\Escritorio\Web\Web.Logica\obj\Debug\Web.Logica.dll
+D:\Escritorio\Web\Web.Logica\obj\Debug\Web.Logica.pdb
+D:\Escritorio\PruebaD3\Web.Logica\bin\Debug\Web.Logica.dll
+D:\Escritorio\PruebaD3\Web.Logica\bin\Debug\Web.Logica.pdb
+D:\Escritorio\PruebaD3\Web.Logica\obj\Debug\Web.Logica.csproj.AssemblyReference.cache
+D:\Escritorio\PruebaD3\Web.Logica\obj\Debug\Web.Logica.csproj.CoreCompileInputs.cache
+D:\Escritorio\PruebaD3\Web.Logica\obj\Debug\Web.Logica.dll
+D:\Escritorio\PruebaD3\Web.Logica\obj\Debug\Web.Logica.pdb

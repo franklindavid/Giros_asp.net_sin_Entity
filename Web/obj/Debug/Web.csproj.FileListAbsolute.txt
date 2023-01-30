@@ -1,0 +1,37 @@
+c:\users\david\documents\visual studio 2012\Projects\Web\Web\bin\Web.dll
+c:\users\david\documents\visual studio 2012\Projects\Web\Web\bin\Web.pdb
+c:\users\david\documents\visual studio 2012\Projects\Web\Web\bin\Web.Logica.dll
+c:\users\david\documents\visual studio 2012\Projects\Web\Web\bin\Web.Logica.pdb
+c:\users\david\documents\visual studio 2012\Projects\Web\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2012\Projects\Web\Web\obj\Debug\Web.dll
+c:\users\david\documents\visual studio 2012\Projects\Web\Web\obj\Debug\Web.pdb
+D:\Escritorio\Web\Web\bin\Web.dll.config
+D:\Escritorio\Web\Web\bin\Web.dll
+D:\Escritorio\Web\Web\bin\Web.pdb
+D:\Escritorio\Web\Web\bin\Web.Logica.dll
+D:\Escritorio\Web\Web\bin\Web.Logica.pdb
+D:\Escritorio\Web\Web\obj\Debug\Web.csproj.AssemblyReference.cache
+D:\Escritorio\Web\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+D:\Escritorio\Web\Web\obj\Debug\Web.csproj.CopyComplete
+D:\Escritorio\Web\Web\obj\Debug\Web.dll
+D:\Escritorio\Web\Web\obj\Debug\Web.pdb
+D:\Escritorio\PruebaD3\Web\obj\Debug\Web.csproj.AssemblyReference.cache
+D:\Escritorio\PruebaD3\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+D:\Escritorio\PruebaD3\Web\obj\Debug\Web.dll
+D:\Escritorio\PruebaD3\Web\obj\Debug\Web.pdb
+D:\Escritorio\PruebaD3\Web\bin\Web.dll.config
+D:\Escritorio\PruebaD3\Web\bin\Web.dll
+D:\Escritorio\PruebaD3\Web\bin\Web.pdb
+D:\Escritorio\PruebaD3\Web\bin\Web.Logica.dll
+D:\Escritorio\PruebaD3\Web\bin\Web.Logica.pdb
+D:\Escritorio\PruebaD3\Web\obj\Debug\Web.csproj.CopyComplete
+D:\Escritorio\PRUEBAD3-OFFLINE\PruebaD3\Web\bin\Web.dll.config
+D:\Escritorio\PRUEBAD3-OFFLINE\PruebaD3\Web\bin\Web.dll
+D:\Escritorio\PRUEBAD3-OFFLINE\PruebaD3\Web\bin\Web.pdb
+D:\Escritorio\PRUEBAD3-OFFLINE\PruebaD3\Web\bin\Web.Logica.dll
+D:\Escritorio\PRUEBAD3-OFFLINE\PruebaD3\Web\bin\Web.Logica.pdb
+D:\Escritorio\PRUEBAD3-OFFLINE\PruebaD3\Web\obj\Debug\Web.csproj.AssemblyReference.cache
+D:\Escritorio\PRUEBAD3-OFFLINE\PruebaD3\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+D:\Escritorio\PRUEBAD3-OFFLINE\PruebaD3\Web\obj\Debug\Web.csproj.CopyComplete
+D:\Escritorio\PRUEBAD3-OFFLINE\PruebaD3\Web\obj\Debug\Web.dll
+D:\Escritorio\PRUEBAD3-OFFLINE\PruebaD3\Web\obj\Debug\Web.pdb
